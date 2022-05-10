@@ -17,3 +17,9 @@ Back-end: <img align="center" alt="Caio-Js" height="30" width="40" src="https://
 ![Login-500px](https://user-images.githubusercontent.com/83608987/167635376-c2cb91bc-2c78-4e69-9ce2-cc083f2d0c45.JPG)
 ![Cadastro-500px](https://user-images.githubusercontent.com/83608987/167635385-4570db50-f7d7-46eb-8fb6-9c5b156a8f88.JPG)
 ![Contato-500px](https://user-images.githubusercontent.com/83608987/167635432-c4698b3c-12e1-4232-ba0e-46713888997a.JPG)
+
+## DEPENDENCIAS
+
+Para instalar as dependencias só é preciso executar o comando: `npm install`
+
+O dar start no server e nos processos para desenvolvimento é necessário rodar o comando: `npm start`
