@@ -8,9 +8,9 @@ O objetivo é facilitar a comercialização de produtos e serviços dentro das c
 ### TECNOLOGIAS E FERRAMENTAS UTILIZADAS
 
 
-Front-end: <strong>REACT</strong> e <strong>BOOTSTRAP</strong>.
+Front-end:  <img align="center" alt="Caio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> e <img align="center" alt="Caio-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">.
 
-Back-end: <strong>JAVA</strong> com as funções CRUD de interface com banco de dados <strong>SQL Server</strong> e Deploy no <strong>HEROKU</strong>.
+Back-end: <img align="center" alt="Caio-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> com as funções CRUD de interface com banco de dados <strong>SQL Server</strong> e Deploy no <strong>HEROKU</strong>.
 
 ## PRINTS
 
