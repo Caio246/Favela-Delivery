@@ -1,4 +1,4 @@
-## FAVELA DELIVERY
+# FAVELA DELIVERY
 
 
 Projeto idealizado e voltado para a inclusão de mulheres moradoras de comunidades carentes que estão de certa forma excluídas por não conseguirem receber encomendas em suas residências, visto que muitas empresas não adentram tais espaços.
@@ -13,6 +13,6 @@ O objetivo é facilitar a comercialização de produtos e serviços dentro das c
   
 </div>
 
-# TECNOLOGIAS UTILIZADAS
+### TECNOLOGIAS E FERRAMENTAS UTILIZADAS
 
-Foram utilizados Front-end: BootStrap, Visual Studio Code, HTML e CSS. Back-end: C#, .NET com as funções CRUD básicas de interface com banco de dados SQL Server, Visual Studio e SQL Server Management Studio.
+Front-end: <strong>REACT</strong>, <strong>BootStrap</strong>, HTML e CSS. Back-end: <strong>JAVA</strong> com as funções CRUD de interface com banco de dados <strong>SQL Server</strong> e Deploy no <strong>HEROKU</strong>.
