@@ -10,9 +10,10 @@ O objetivo é facilitar a comercialização de produtos e serviços dentro das c
 
 Front-end:  <img align="center" alt="Caio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> e <img align="center" alt="Caio-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">.
 
-Back-end: <img align="center" alt="Caio-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> com as funções CRUD de interface com banco de dados <strong>SQL Server</strong> e Deploy no <strong>HEROKU</strong>.
+Back-end: <img align="center" alt="Caio-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> com as funções CRUD de interface com banco de dados <img align="center" alt="Caio-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"> e Deploy no  <img align="center" alt="Caio-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg">.
 
 ## PRINTS
-
-<img align="center" alt="Caio-Js" height="30" width="40" src="https://caiocustodiomoreira.blogspot.com/2022/05/home-fd.html">
-
+![Home-500px](https://user-images.githubusercontent.com/83608987/167634712-53087a9f-9ac2-445e-85a9-ef5ab4b30e9e.JPG)
+![Login-500px](https://user-images.githubusercontent.com/83608987/167635376-c2cb91bc-2c78-4e69-9ce2-cc083f2d0c45.JPG)
+![Cadastro-500px](https://user-images.githubusercontent.com/83608987/167635385-4570db50-f7d7-46eb-8fb6-9c5b156a8f88.JPG)
+![Contato-500px](https://user-images.githubusercontent.com/83608987/167635432-c4698b3c-12e1-4232-ba0e-46713888997a.JPG)
