@@ -1,5 +1,5 @@
 # FAVELA DELIVERY
-Projeto idealizado e voltado para a inclusão de mulheres moradoras de comunidades carentes que estão de certa forma excluídas por não conseguirem receber encomendas em suas residências, visto que muitas empresas não adentram tais espaços.
+Projeto original idealizado e voltado para a inclusão de mulheres moradoras de comunidades carentes que estão de certa forma excluídas por não conseguirem receber encomendas em suas residências, visto que muitas empresas não adentram tais espaços.
 
 O mesmo acontece com empreendedoras em relação à entrega de seus produtos, de modo que nosso portal propõe dar visibilidade aos seus negócios e a certeza de que suas encomendas vão chegar a qualquer destino por meio das nossas entregadoras.
 
