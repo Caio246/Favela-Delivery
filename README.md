@@ -13,10 +13,11 @@ O objetivo é facilitar a comercialização de produtos e serviços dentro das c
 - Back-end: <img align="center" alt="Caio-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> e <img align="center" alt="Caio-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"> com as funções CRUD de interface com banco de dados <img align="center" alt="Caio-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"> e Deploy no  <img align="center" alt="Caio-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg">.
 
 ## PRINTS
-![Home-500px](https://user-images.githubusercontent.com/83608987/167634712-53087a9f-9ac2-445e-85a9-ef5ab4b30e9e.JPG)
-![Login-500px](https://user-images.githubusercontent.com/83608987/167635376-c2cb91bc-2c78-4e69-9ce2-cc083f2d0c45.JPG)
-![Cadastro-500px](https://user-images.githubusercontent.com/83608987/167635385-4570db50-f7d7-46eb-8fb6-9c5b156a8f88.JPG)
-![Contato-500px](https://user-images.githubusercontent.com/83608987/167635432-c4698b3c-12e1-4232-ba0e-46713888997a.JPG)
+![Home-500px](https://user-images.githubusercontent.com/83608987/167743558-9eeae631-0517-448a-a634-cc2869b7c885.JPG)
+![Cadastro-500px](https://user-images.githubusercontent.com/83608987/167743569-ed40fe58-bcf4-4977-bc82-326c8c2b9429.JPG)
+![Contato-500px](https://user-images.githubusercontent.com/83608987/167743580-28525e94-c134-44a6-b4f2-c022870cece7.JPG)
+![Login-500px](https://user-images.githubusercontent.com/83608987/167743590-aa675f14-f7b3-4f26-9daf-9f2fc0dfcc09.JPG)
+
 
 ## DEPENDÊNCIAS
 
