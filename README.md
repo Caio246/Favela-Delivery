@@ -5,7 +5,11 @@ O mesmo acontece com empreendedoras em relação à entrega de seus produtos, de
 
 O objetivo é facilitar a comercialização de produtos e serviços dentro das comunidades, gerando renda e tendo como foco as mulheres moradoras dessas localidades.
 
-### TECNOLOGIAS E FERRAMENTAS UTILIZADAS
+## VÍDEO PROMO
+
+https://www.youtube.com/watch?v=8UReeZQ120I
+
+###= TECNOLOGIAS E FERRAMENTAS UTILIZADAS
 
 
 - Front-end:  <img align="center" alt="Caio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> e <img align="center" alt="Caio-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">.
